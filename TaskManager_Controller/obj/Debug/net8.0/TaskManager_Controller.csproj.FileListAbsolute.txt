@@ -1,0 +1,11 @@
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\bin\Debug\net8.0\TaskManager_Controller.deps.json
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\bin\Debug\net8.0\TaskManager_Controller.dll
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\bin\Debug\net8.0\TaskManager_Controller.pdb
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.AssemblyInfoInputs.cache
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.AssemblyInfo.cs
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.dll
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\refint\TaskManager_Controller.dll
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\TaskManager_Controller.pdb
+C:\Users\tolik\source\repos\TaskManagerPlus\TaskManager_Controller\obj\Debug\net8.0\ref\TaskManager_Controller.dll
